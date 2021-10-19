@@ -1,0 +1,3 @@
+D:/Engineering/ACADEMIC/SEM-3/Mystudy/Operating systems/pintos-learning/pintos/cmake-build-debug/CMakeFiles/pintos.dir
+D:/Engineering/ACADEMIC/SEM-3/Mystudy/Operating systems/pintos-learning/pintos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Engineering/ACADEMIC/SEM-3/Mystudy/Operating systems/pintos-learning/pintos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
